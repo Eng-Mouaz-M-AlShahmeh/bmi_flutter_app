@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShots from app
 
-![plot](./lib/screens/Screen Shot 2022-04-26 at 2.51.07 AM.png)
+![plot](lib/screens/Screen Shot 2022-04-26 at 2.51.07 AM.png)
 
-![plot](./lib/screens/Screen Shot 2022-04-26 at 2.51.23 AM.png)
+![plot](lib/screens/Screen Shot 2022-04-26 at 2.51.23 AM.png)
